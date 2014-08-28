@@ -1,6 +1,1 @@
-ls
-This is a test.
-
-;q
-^q
-This is my second line
+Third addition
