@@ -1,0 +1,5 @@
+ls
+This is a test.
+
+;q
+^q
